@@ -11013,3 +11013,7 @@ a {
 .social-icon:hover {
   color: #04414d;
 }
+
+body {
+    background-color: #f2f2f2;
+}
