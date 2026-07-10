@@ -11019,8 +11019,8 @@ body {
 }
 
 .project-img {
-    width: 290px;
-    height: 230px;
+    width: 240px;
+    height: 180px;
     object-fit: cover;
     display: inline-block;
     margin: 10px;
