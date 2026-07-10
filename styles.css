@@ -11019,12 +11019,12 @@ body {
 }
 
 .project-img {
-    width: 240px;
-    height: 180px;
+    width: 340px;
+    height: 280px;
     object-fit: cover;
     display: inline-block;
     margin: 10px;
-    border-radius: 6px;
-    vertical-align: middle;
+    border-radius: 0px;
+    vertical-align: left;
 }
 
