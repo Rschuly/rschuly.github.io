@@ -11017,3 +11017,14 @@ a {
 body {
     background-color: #e6e0d4;
 }
+
+.project-img {
+    width: 240px;
+    height: 180px;
+    object-fit: cover;
+    display: inline-block;
+    margin: 10px;
+    border-radius: 6px;
+    vertical-align: middle;
+}
+
