@@ -11028,3 +11028,14 @@ body {
     vertical-align: center;
 }
 
+.project-video {
+    width: 360px;
+    height: auto;
+    margin-right: 15px;
+    margin-bottom: 20px;
+    border-radius: 6px;
+    display: inline-block;
+}
+.sme-videos {
+    text-align: center;
+}
